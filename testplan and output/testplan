@@ -1,0 +1,4 @@
+Tic-Tac-Toe Game implemented using MinMax Algorith. 
+Minimax algorithm uses the fact that the two players are working towards opposite goals to make
+ predictions about which future states will be reached as the game progresses,
+ and then proceeds accordingly to optimize its chance of victory.
