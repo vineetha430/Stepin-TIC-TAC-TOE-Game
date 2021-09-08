@@ -31,7 +31,7 @@
 #ifndef __windows_h
 #include <windows.h>
 #define SLEEP Sleep(5000)
-#define CLEAR system("cls")
+#define CLEAR system("clear")
 #endif
 #else
 #ifndef __termios_h
@@ -40,7 +40,7 @@
 #ifndef __unistd_h
 #include <unistd.h>
 #define SLEEP sleep(5)
-#define CLEAR system("cls")	//tput reset
+#define CLEAR system("clear")	//tput reset
 #endif
 #endif
 
