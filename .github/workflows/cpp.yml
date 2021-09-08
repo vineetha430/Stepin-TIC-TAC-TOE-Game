@@ -1,4 +1,4 @@
-name: Valgrind
+
 name: cppcheck-action
 on: [push]
 
